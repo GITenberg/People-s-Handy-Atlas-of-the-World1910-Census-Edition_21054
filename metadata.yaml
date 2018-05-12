@@ -1,0 +1,30 @@
+_repo: People-s-Handy-Atlas-of-the-World1910-Census-Edition_21054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Geographical Publishing Co.
+    alias: Geographical Publishing Company
+    gutenberg_agent_id: '37003'
+    url: http://www.gutenberg.org/2009/agents/37003
+description: '"Containing over 100 Specially Engraved Maps, Diagrams and Thousands
+  of Indexed Entries of Towns, and Countries with Populations from the 1910 U. S.
+  Federal Census and other Latest Sources for Foreign Places" -- t.p.'
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'United States -- Maps'
+- !lcsh 'Atlases'
+title: 'People''s Handy Atlas of the World
+
+  1910 Census Edition'
+url: http://www.gutenberg.org/ebooks/21054
