@@ -12,6 +12,8 @@ creator:
 description: '"Containing over 100 Specially Engraved Maps, Diagrams and Thousands
   of Indexed Entries of Towns, and Countries with Populations from the 1910 U. S.
   Federal Census and other Latest Sources for Foreign Places" -- t.p.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21054#People-s-Handy-Atlas-of-the-World1910-Census-Edition
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
